@@ -1,8 +1,8 @@
 {
-  "name": "nuxtjs",
+  "name": "Doge",
   "version": "1.0.0",
-  "description": "My astonishing Nuxt.js project",
-  "author": "msweeneydev",
+  "description": "Dogecoin to the moon",
+  "author": "Alex Lopez",
   "private": true,
   "scripts": {
     "dev": "nuxt",
